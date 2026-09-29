@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome traveler
+# Welcome traveler
 
 **Electrical & Computer Science Student @ ENSEA**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Languages:** ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
 * **Hardware & Electronics:** ![KiCad](https://img.shields.io/badge/-KiCad-314CB6?logo=kicad&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?logo=mathworks&logoColor=white) ![Lab Equipment](https://img.shields.io/badge/-Oscilloscopes_&_GBF-4B0082?logo=soundcharts&logoColor=white)
@@ -21,9 +21,9 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🔬 Electronics & Signal Processing Intern
+### Electronics & Signal Processing Intern
 **[INPHYNI](https://inphyni.univ-cotedazur.fr/) & [LEAT](https://leat.univ-cotedazur.fr/) (CNRS/UniCA)** | *Stage 1A*
 * **Context:** Worked on a laser interferometry setup designed to be interpreted by an embedded Artificial Intelligence.
 * **My Impact:** Tracked and eliminated electromagnetic interference (EMI) and ground loops to provide a clean, high-fidelity signal to the AI. Characterized high-speed amplifiers and designed a custom stabilized power supply along with an analog active filtering PCB using **KiCad**.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [Stroboscopic Lamp (1st Year Project)](#)
 * **What it does:** A custom-built stroboscopic lamp designed to freeze high-speed motion using precisely timed light flashes.
