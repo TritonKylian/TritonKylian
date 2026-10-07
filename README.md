@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome traveler
+# Welcome
 
 **Electrical & Computer Science Student @ ENSEA**
 
