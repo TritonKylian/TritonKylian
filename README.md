@@ -47,5 +47,5 @@
 ### 2. [Simple Game In Java (1st Year Project)](#)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyliantriton&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TritonKylian&show_icons=true&theme=radical)
 
