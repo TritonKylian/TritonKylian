@@ -1,8 +1,6 @@
 <div align="center">
   
-# Welcome
-
-**Electrical & Computer Science Student @ ENSEA**
+# **Electrical & Computer Science Student @ ENSEA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kylian-triton)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_WEBSITE.com)
